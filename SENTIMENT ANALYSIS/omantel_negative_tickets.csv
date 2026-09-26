@@ -1,0 +1,108 @@
+ticket_id,complaint_text,true_feeling,predicted_feeling,score
+TKT50003,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50013,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50032,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50030,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50036,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50033,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50044,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50041,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50059,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50062,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50070,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50053,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50045,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50048,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50085,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50082,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50112,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50120,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50107,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50139,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50157,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50162,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50148,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50131,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50089,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50086,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50091,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50202,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50184,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50189,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50174,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50173,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50219,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50237,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50236,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50235,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50255,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50251,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50250,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50243,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50259,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50261,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50190,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50299,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50264,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50294,"Slow internet, expensive plan, terrible experience overall",Negative,Negative,-3
+TKT50290,"Worst customer service ever, I waited two hours and got nothing",Negative,Negative,-3
+TKT50263,The signal is awful and I am thinking of switching to a competitor,Negative,Negative,-3
+TKT50068,No internet for three days in Muscat and no one helped me,Negative,Negative,-2
+TKT50066,No internet for three days in Sur and no one helped me,Negative,Negative,-2
+TKT50065,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50061,"The network is terrible in Nizwa, calls drop every day",Negative,Negative,-2
+TKT50057,"The network is terrible in Muscat, calls drop every day",Negative,Negative,-2
+TKT50040,No internet for three days in Muscat and no one helped me,Negative,Negative,-2
+TKT50043,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50056,"The network is terrible in Sur, calls drop every day",Negative,Negative,-2
+TKT50024,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50021,"The network is terrible in Sohar, calls drop every day",Negative,Negative,-2
+TKT50020,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50035,"The network is terrible in Sur, calls drop every day",Negative,Negative,-2
+TKT50038,"The network is terrible in Nizwa, calls drop every day",Negative,Negative,-2
+TKT50037,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50008,No internet for three days in Sur and no one helped me,Negative,Negative,-2
+TKT50007,No internet for three days in Muscat and no one helped me,Negative,Negative,-2
+TKT50169,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50164,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50163,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50149,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50147,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50109,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50126,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50133,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50115,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50087,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50078,No internet for three days in Muscat and no one helped me,Negative,Negative,-2
+TKT50092,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50094,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50095,No internet for three days in Salalah and no one helped me,Negative,Negative,-2
+TKT50099,No internet for three days in Sur and no one helped me,Negative,Negative,-2
+TKT50101,"The network is terrible in Sur, calls drop every day",Negative,Negative,-2
+TKT50076,No internet for three days in Nizwa and no one helped me,Negative,Negative,-2
+TKT50084,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50088,"The network is terrible in Sohar, calls drop every day",Negative,Negative,-2
+TKT50025,"The network is terrible in Sur, calls drop every day",Negative,Negative,-2
+TKT50011,No internet for three days in Sur and no one helped me,Negative,Negative,-2
+TKT50213,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50215,No internet for three days in Nizwa and no one helped me,Negative,Negative,-2
+TKT50208,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50170,"The network is terrible in Sohar, calls drop every day",Negative,Negative,-2
+TKT50177,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50212,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50226,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50200,No internet for three days in Sohar and no one helped me,Negative,Negative,-2
+TKT50198,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50181,"I am so frustrated, my SIM activation failed twice",Negative,Negative,-2
+TKT50188,"The network is terrible in Sohar, calls drop every day",Negative,Negative,-2
+TKT50260,"The network is terrible in Muscat, calls drop every day",Negative,Negative,-2
+TKT50224,"The network is terrible in Salalah, calls drop every day",Negative,Negative,-2
+TKT50216,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50230,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50277,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50271,"The network is terrible in Muscat, calls drop every day",Negative,Negative,-2
+TKT50289,"I have been overcharged again on my bill, this is unacceptable",Negative,Negative,-2
+TKT50270,No internet for three days in Muscat and no one helped me,Negative,Negative,-2
+TKT50281,No internet for three days in Sur and no one helped me,Negative,Negative,-2
+TKT50296,"The network is terrible in Salalah, calls drop every day",Negative,Negative,-2
+TKT50297,No internet for three days in Muscat and no one helped me,Negative,Negative,-2
